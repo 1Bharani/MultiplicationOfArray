@@ -11,7 +11,7 @@ public class MultiplicationOfArray
          for (int i = 0; i < arr.length; i++) {  
        mu2 = mu2 * arr[i];  
       }  
-       System.out.println("Product of all the elements of an array: " +mu2);  
+       System.out.println("Product of all the elements of an array: " +bharani);  
   }
 }   
   
